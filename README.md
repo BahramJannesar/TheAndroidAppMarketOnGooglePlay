@@ -11,3 +11,5 @@ user_reviews.csv: contains 100 reviews for each app, most helpful first. The tex
 
 # Installation (recommended)
     pip3 install jupyter
+# License
+See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License 
